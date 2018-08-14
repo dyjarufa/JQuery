@@ -1,3 +1,3 @@
 # JQuery
 
-## Estudos Frameworko JQuery
+## Framework JQuery
